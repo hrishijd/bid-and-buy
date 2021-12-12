@@ -106,7 +106,7 @@ body {
 /*   display:block; */
 /*  object-fit: cover; */
 	background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),
-	            rgba(0,0,0,0.55) url(../images/bg.jpg) no-repeat center center fixed; 
+	            rgba(0,0,0,0.55) no-repeat center center fixed;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
